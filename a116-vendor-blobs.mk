@@ -78,8 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a116/proprietary/etc/firmware/touchpanel/tinno-fts-update-0514.ekt:system/etc/firmware/touchpanel/tinno-fts-update-0514.ekt \
     vendor/micromax/a116/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/micromax/a116/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
-
-
     vendor/micromax/a116/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/micromax/a116/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
     vendor/micromax/a116/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
@@ -92,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a116/proprietary/lib/libfile_op.so:system/lib/libfile_op.so \
     vendor/micromax/a116/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/micromax/a116/proprietary/lib/libkeystore_client.so:system/lib/libkeystore_client.so \
-
     vendor/micromax/a116/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/micromax/a116/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
     vendor/micromax/a116/proprietary/lib/hw/audio_policy.mt6589.so:system/lib/hw/audio_policy.mt6589.so \
@@ -105,8 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a116/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/micromax/a116/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
     vendor/micromax/a116/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-
-
     vendor/micromax/a116/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/micromax/a116/proprietary/lib/libdpframework_os.so:system/lib/libdpframework_os.so \
     vendor/micromax/a116/proprietary/lib/libdpframework_plat.so:system/lib/libdpframework_plat.so \
